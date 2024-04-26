@@ -23,3 +23,5 @@ main()
   .finally(async () => {
     await prisma.$disconnect()
   })
+
+//   REMINDER TO REVIEW PART 1 for comprehension on Monday
